@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/emeds_logo"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/emeds_logo_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MySignupApp">
+        <activity
+            android:name=".Login">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".MainActivity" android:exported="true">
+
+        </activity>
+        <activity android:name=".MainPage" android:exported="true">
+
+        </activity>
+        <activity android:name=".advair_diskus" android:exported="true">
+
+        </activity>
+        <activity android:name=".armon_air" android:exported="true">
+
+        </activity>
+        <activity android:name=".breo_ellipta" android:exported="true">
+
+        </activity>
+        <activity android:name=".trelegy_ellipta" android:exported="true">
+
+        </activity>
+        <activity android:name=".antitussive" android:exported="true">
+
+        </activity>
+        <activity android:name=".guaifenex_g" android:exported="true">
+
+        </activity>
+        <activity android:name=".mucinex" android:exported="true">
+
+        </activity>
+        <activity android:name=".robitussin" android:exported="true">
+
+        </activity>
+        <activity android:name=".bismarex" android:exported="true">
+
+        </activity>
+        <activity android:name=".bismatrol" android:exported="true">
+
+        </activity>
+        <activity android:name=".kaopectate" android:exported="true">
+
+        </activity>
+        <activity android:name=".pepto_bismol" android:exported="true">
+
+        </activity>
+        <activity android:name=".alvedon" android:exported="true">
+
+        </activity>
+        <activity android:name=".calpol" android:exported="true">
+
+        </activity>
+        <activity android:name=".panadol" android:exported="true">
+
+        </activity>
+        <activity android:name=".tylenol" android:exported="true">
+
+        </activity>
+        <activity android:name=".prozac" android:exported="true">
+
+        </activity>
+        <activity android:name=".rapiflux" android:exported="true">
+
+        </activity>
+        <activity android:name=".sarafem" android:exported="true">
+
+        </activity>
+        <activity android:name=".selfemra" android:exported="true">
+
+        </activity>
+
+    </application>
+
+</manifest>

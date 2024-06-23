@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background1"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/medicines_for_diarrhea"
+        android:text="Medicines for Diarrhea"
+        android:textSize="30dp"
+        android:textStyle="bold"
+        android:textColor="@color/white"
+        android:gravity="center"
+        android:layout_margin="20dp"/>
+
+    <ImageView
+        android:id="@+id/img_kaopectate"
+        android:layout_width="300dp"
+        android:layout_height="250dp"
+        android:src="@drawable/kaopectate"
+        android:layout_below="@+id/medicines_for_diarrhea"
+        android:padding="16dp"
+        android:layout_centerInParent="true"/>
+
+    <TextView
+        android:id="@+id/txt_kaopectate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/img_kaopectate"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="25dp"
+        android:text="Name:    Kaopectate"
+        android:textColor="@color/white"
+        android:textColorHint="@color/white"
+        android:textSize="30dp" />
+
+    <TextView
+        android:id="@+id/rate_kaopectate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txt_kaopectate"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="25dp"
+        android:text="Rating:   7.5/10"
+        android:textColor="@color/white"
+        android:textColorHint="@color/white"
+        android:textSize="30dp" />
+
+    <TextView
+        android:id="@+id/price_kaopectate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/rate_kaopectate"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="25dp"
+        android:text="Price:      Rs. 3352.83"
+        android:textColor="@color/white"
+        android:textColorHint="@color/white"
+        android:textSize="30dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/price_kaopectate"
+        android:text="This product should not be used to self-treat diarrhea if you also have a fever or blood/mucus in the stools. These could be signs of a serious health condition. Consult your doctor promptly for proper evaluation and treatment if you have these symptoms."
+        android:textColor="@color/white"
+        android:textColorHint="@color/white"
+        android:layout_marginLeft="18dp"
+        android:layout_marginRight="18dp"
+        android:textSize="20dp"
+        android:padding="10dp"
+        android:paddingRight="10dp"/>
+    <Button
+        android:id="@+id/back"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="158dp"
+        android:layout_marginTop="668dp"
+        android:layout_marginEnd="159dp"
+        android:layout_marginBottom="15dp"
+        android:text="Back" />
+</RelativeLayout>

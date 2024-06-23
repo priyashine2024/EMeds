@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.constraintlayout:constraintlayout:2.0.4@aar">
+    <CLASSES>
+      <root url="file://$APPLICATION_HOME_DIR$/bin/Whatsapp/gradle/caches/transforms-3/3332b1b719b2d964d29a64b513750c07/transformed/constraintlayout-2.0.4/res" />
+      <root url="file://$APPLICATION_HOME_DIR$/bin/Whatsapp/gradle/caches/transforms-3/3332b1b719b2d964d29a64b513750c07/transformed/constraintlayout-2.0.4/AndroidManifest.xml" />
+      <root url="jar://$APPLICATION_HOME_DIR$/bin/Whatsapp/gradle/caches/transforms-3/3332b1b719b2d964d29a64b513750c07/transformed/constraintlayout-2.0.4/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

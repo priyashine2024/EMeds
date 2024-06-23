@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-base:18.0.1@aar">
+    <CLASSES>
+      <root url="file://$APPLICATION_HOME_DIR$/bin/Whatsapp/gradle/caches/transforms-3/928e45c42d351ed66571468a1953697a/transformed/play-services-base-18.0.1/AndroidManifest.xml" />
+      <root url="jar://$APPLICATION_HOME_DIR$/bin/Whatsapp/gradle/caches/transforms-3/928e45c42d351ed66571468a1953697a/transformed/play-services-base-18.0.1/jars/classes.jar!/" />
+      <root url="file://$APPLICATION_HOME_DIR$/bin/Whatsapp/gradle/caches/transforms-3/928e45c42d351ed66571468a1953697a/transformed/play-services-base-18.0.1/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$APPLICATION_HOME_DIR$/bin/Whatsapp/gradle/caches/modules-2/files-2.1/com.google.android.gms/play-services-base/18.0.1/5c3b2e3ce7819eeff73b937ae37741ad2bd88172/play-services-base-18.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

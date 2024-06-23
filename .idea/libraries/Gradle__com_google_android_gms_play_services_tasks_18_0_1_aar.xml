@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-tasks:18.0.1@aar">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/bin/Whatsapp/gradle/caches/transforms-3/3973251d6b74bc4a2e10b52ead824ac6/transformed/play-services-tasks-18.0.1/jars/classes.jar!/" />
+      <root url="file://$APPLICATION_HOME_DIR$/bin/Whatsapp/gradle/caches/transforms-3/3973251d6b74bc4a2e10b52ead824ac6/transformed/play-services-tasks-18.0.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$APPLICATION_HOME_DIR$/bin/Whatsapp/gradle/caches/modules-2/files-2.1/com.google.android.gms/play-services-tasks/18.0.1/2e3c5d886f131c9c8ae2d93dcf32aa58dad438e3/play-services-tasks-18.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,268 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.mysignupapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="22"
+8-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml:5:22-64
+12
+13    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
+14    <!-- <uses-sdk android:minSdkVersion="14"/> -->
+15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+15-->[com.google.firebase:firebase-database:20.1.0] C:\Users\Ganesh Mohan Pillai\.gradle\caches\transforms-3\6eac48d1748f2611292553883c0a801a\transformed\firebase-database-20.1.0\AndroidManifest.xml:24:5-79
+15-->[com.google.firebase:firebase-database:20.1.0] C:\Users\Ganesh Mohan Pillai\.gradle\caches\transforms-3\6eac48d1748f2611292553883c0a801a\transformed\firebase-database-20.1.0\AndroidManifest.xml:24:22-76
+16
+17    <application
+17-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml:6:5-89:19
+18        android:allowBackup="true"
+18-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml:7:9-35
+19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+19-->[androidx.core:core:1.5.0] C:\Users\Ganesh Mohan Pillai\.gradle\caches\transforms-3\32b23554545eaf6581083e143c42711f\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+20        android:debuggable="true"
+21        android:icon="@mipmap/emeds_logo"
+21-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml:8:9-42
+22        android:label="@string/app_name"
+22-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml:9:9-41
+23        android:roundIcon="@mipmap/emeds_logo_round"
+23-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml:10:9-53
+24        android:supportsRtl="true"
+24-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml:11:9-35
+25        android:testOnly="true"
+26        android:theme="@style/Theme.MySignupApp" >
+26-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml:12:9-49
+27        <activity android:name="com.example.mysignupapp.Login" >
+27-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml:13:9-20:20
+27-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml:14:13-34
+28            <intent-filter>
+28-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml:15:13-19:29
+29                <action android:name="android.intent.action.MAIN" />
+29-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml:16:17-69
+29-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml:16:25-66
+30
+31                <category android:name="android.intent.category.LAUNCHER" />
+31-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml:18:17-77
+31-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml:18:27-74
+32            </intent-filter>
+33        </activity>
+34        <activity
+34-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml:22:9-24:20
+35            android:name="com.example.mysignupapp.MainActivity"
+35-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml:22:19-47
+36            android:exported="true" >
+36-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml:22:48-71
+37        </activity>
+38        <activity
+38-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml:25:9-27:20
+39            android:name="com.example.mysignupapp.MainPage"
+39-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml:25:19-43
+40            android:exported="true" >
+40-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml:25:44-67
+41        </activity>
+42        <activity
+42-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml:28:9-30:20
+43            android:name="com.example.mysignupapp.advair_diskus"
+43-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml:28:19-48
+44            android:exported="true" >
+44-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml:28:49-72
+45        </activity>
+46        <activity
+46-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml:31:9-33:20
+47            android:name="com.example.mysignupapp.armon_air"
+47-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml:31:19-44
+48            android:exported="true" >
+48-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml:31:45-68
+49        </activity>
+50        <activity
+50-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml:34:9-36:20
+51            android:name="com.example.mysignupapp.breo_ellipta"
+51-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml:34:19-47
+52            android:exported="true" >
+52-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml:34:48-71
+53        </activity>
+54        <activity
+54-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml:37:9-39:20
+55            android:name="com.example.mysignupapp.trelegy_ellipta"
+55-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml:37:19-50
+56            android:exported="true" >
+56-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml:37:51-74
+57        </activity>
+58        <activity
+58-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml:40:9-42:20
+59            android:name="com.example.mysignupapp.antitussive"
+59-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml:40:19-46
+60            android:exported="true" >
+60-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml:40:47-70
+61        </activity>
+62        <activity
+62-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml:43:9-45:20
+63            android:name="com.example.mysignupapp.guaifenex_g"
+63-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml:43:19-46
+64            android:exported="true" >
+64-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml:43:47-70
+65        </activity>
+66        <activity
+66-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml:46:9-48:20
+67            android:name="com.example.mysignupapp.mucinex"
+67-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml:46:19-42
+68            android:exported="true" >
+68-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml:46:43-66
+69        </activity>
+70        <activity
+70-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml:49:9-51:20
+71            android:name="com.example.mysignupapp.robitussin"
+71-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml:49:19-45
+72            android:exported="true" >
+72-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml:49:46-69
+73        </activity>
+74        <activity
+74-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml:52:9-54:20
+75            android:name="com.example.mysignupapp.bismarex"
+75-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml:52:19-43
+76            android:exported="true" >
+76-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml:52:44-67
+77        </activity>
+78        <activity
+78-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml:55:9-57:20
+79            android:name="com.example.mysignupapp.bismatrol"
+79-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml:55:19-44
+80            android:exported="true" >
+80-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml:55:45-68
+81        </activity>
+82        <activity
+82-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml:58:9-60:20
+83            android:name="com.example.mysignupapp.kaopectate"
+83-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml:58:19-45
+84            android:exported="true" >
+84-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml:58:46-69
+85        </activity>
+86        <activity
+86-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml:61:9-63:20
+87            android:name="com.example.mysignupapp.pepto_bismol"
+87-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml:61:19-47
+88            android:exported="true" >
+88-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml:61:48-71
+89        </activity>
+90        <activity
+90-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml:64:9-66:20
+91            android:name="com.example.mysignupapp.alvedon"
+91-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml:64:19-42
+92            android:exported="true" >
+92-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml:64:43-66
+93        </activity>
+94        <activity
+94-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml:67:9-69:20
+95            android:name="com.example.mysignupapp.calpol"
+95-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml:67:19-41
+96            android:exported="true" >
+96-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml:67:42-65
+97        </activity>
+98        <activity
+98-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml:70:9-72:20
+99            android:name="com.example.mysignupapp.panadol"
+99-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml:70:19-42
+100            android:exported="true" >
+100-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml:70:43-66
+101        </activity>
+102        <activity
+102-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml:73:9-75:20
+103            android:name="com.example.mysignupapp.tylenol"
+103-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml:73:19-42
+104            android:exported="true" >
+104-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml:73:43-66
+105        </activity>
+106        <activity
+106-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml:76:9-78:20
+107            android:name="com.example.mysignupapp.prozac"
+107-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml:76:19-41
+108            android:exported="true" >
+108-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml:76:42-65
+109        </activity>
+110        <activity
+110-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml:79:9-81:20
+111            android:name="com.example.mysignupapp.rapiflux"
+111-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml:79:19-43
+112            android:exported="true" >
+112-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml:79:44-67
+113        </activity>
+114        <activity
+114-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml:82:9-84:20
+115            android:name="com.example.mysignupapp.sarafem"
+115-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml:82:19-42
+116            android:exported="true" >
+116-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml:82:43-66
+117        </activity>
+118        <activity
+118-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml:85:9-87:20
+119            android:name="com.example.mysignupapp.selfemra"
+119-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml:85:19-43
+120            android:exported="true" >
+120-->C:\Users\Ganesh Mohan Pillai\Downloads\EMeds\Emeds\app\src\main\AndroidManifest.xml:85:44-67
+121        </activity>
+122
+123        <service
+123-->[com.google.firebase:firebase-database-ktx:20.1.0] C:\Users\Ganesh Mohan Pillai\.gradle\caches\transforms-3\9157fca9d3cbcb7c937c34757d1d6239\transformed\firebase-database-ktx-20.1.0\AndroidManifest.xml:11:9-17:19
+124            android:name="com.google.firebase.components.ComponentDiscoveryService"
+124-->[com.google.firebase:firebase-database-ktx:20.1.0] C:\Users\Ganesh Mohan Pillai\.gradle\caches\transforms-3\9157fca9d3cbcb7c937c34757d1d6239\transformed\firebase-database-ktx-20.1.0\AndroidManifest.xml:12:13-84
+125            android:directBootAware="true"
+125-->[com.google.firebase:firebase-common:20.2.0] C:\Users\Ganesh Mohan Pillai\.gradle\caches\transforms-3\603bb167a37d65dfb389011974d34b0a\transformed\firebase-common-20.2.0\AndroidManifest.xml:34:13-43
+126            android:exported="false" >
+126-->[com.google.firebase:firebase-database-ktx:20.1.0] C:\Users\Ganesh Mohan Pillai\.gradle\caches\transforms-3\9157fca9d3cbcb7c937c34757d1d6239\transformed\firebase-database-ktx-20.1.0\AndroidManifest.xml:13:13-37
+127            <meta-data
+127-->[com.google.firebase:firebase-database-ktx:20.1.0] C:\Users\Ganesh Mohan Pillai\.gradle\caches\transforms-3\9157fca9d3cbcb7c937c34757d1d6239\transformed\firebase-database-ktx-20.1.0\AndroidManifest.xml:14:13-16:85
+128                android:name="com.google.firebase.components:com.google.firebase.database.ktx.FirebaseDatabaseKtxRegistrar"
+128-->[com.google.firebase:firebase-database-ktx:20.1.0] C:\Users\Ganesh Mohan Pillai\.gradle\caches\transforms-3\9157fca9d3cbcb7c937c34757d1d6239\transformed\firebase-database-ktx-20.1.0\AndroidManifest.xml:15:17-124
+129                android:value="com.google.firebase.components.ComponentRegistrar" />
+129-->[com.google.firebase:firebase-database-ktx:20.1.0] C:\Users\Ganesh Mohan Pillai\.gradle\caches\transforms-3\9157fca9d3cbcb7c937c34757d1d6239\transformed\firebase-database-ktx-20.1.0\AndroidManifest.xml:16:17-82
+130            <meta-data
+130-->[com.google.firebase:firebase-database:20.1.0] C:\Users\Ganesh Mohan Pillai\.gradle\caches\transforms-3\6eac48d1748f2611292553883c0a801a\transformed\firebase-database-20.1.0\AndroidManifest.xml:31:13-33:85
+131                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+131-->[com.google.firebase:firebase-database:20.1.0] C:\Users\Ganesh Mohan Pillai\.gradle\caches\transforms-3\6eac48d1748f2611292553883c0a801a\transformed\firebase-database-20.1.0\AndroidManifest.xml:32:17-109
+132                android:value="com.google.firebase.components.ComponentRegistrar" />
+132-->[com.google.firebase:firebase-database:20.1.0] C:\Users\Ganesh Mohan Pillai\.gradle\caches\transforms-3\6eac48d1748f2611292553883c0a801a\transformed\firebase-database-20.1.0\AndroidManifest.xml:33:17-82
+133            <meta-data
+133-->[com.google.firebase:firebase-common-ktx:20.2.0] C:\Users\Ganesh Mohan Pillai\.gradle\caches\transforms-3\0174fab7e0391ab17e28aaba5a42ce5d\transformed\firebase-common-ktx-20.2.0\AndroidManifest.xml:14:13-16:85
+134                android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonKtxRegistrar"
+134-->[com.google.firebase:firebase-common-ktx:20.2.0] C:\Users\Ganesh Mohan Pillai\.gradle\caches\transforms-3\0174fab7e0391ab17e28aaba5a42ce5d\transformed\firebase-common-ktx-20.2.0\AndroidManifest.xml:15:17-113
+135                android:value="com.google.firebase.components.ComponentRegistrar" />
+135-->[com.google.firebase:firebase-common-ktx:20.2.0] C:\Users\Ganesh Mohan Pillai\.gradle\caches\transforms-3\0174fab7e0391ab17e28aaba5a42ce5d\transformed\firebase-common-ktx-20.2.0\AndroidManifest.xml:16:17-82
+136        </service>
+137
+138        <provider
+138-->[com.google.firebase:firebase-common:20.2.0] C:\Users\Ganesh Mohan Pillai\.gradle\caches\transforms-3\603bb167a37d65dfb389011974d34b0a\transformed\firebase-common-20.2.0\AndroidManifest.xml:25:9-30:39
+139            android:name="com.google.firebase.provider.FirebaseInitProvider"
+139-->[com.google.firebase:firebase-common:20.2.0] C:\Users\Ganesh Mohan Pillai\.gradle\caches\transforms-3\603bb167a37d65dfb389011974d34b0a\transformed\firebase-common-20.2.0\AndroidManifest.xml:26:13-77
+140            android:authorities="com.example.mysignupapp.firebaseinitprovider"
+140-->[com.google.firebase:firebase-common:20.2.0] C:\Users\Ganesh Mohan Pillai\.gradle\caches\transforms-3\603bb167a37d65dfb389011974d34b0a\transformed\firebase-common-20.2.0\AndroidManifest.xml:27:13-72
+141            android:directBootAware="true"
+141-->[com.google.firebase:firebase-common:20.2.0] C:\Users\Ganesh Mohan Pillai\.gradle\caches\transforms-3\603bb167a37d65dfb389011974d34b0a\transformed\firebase-common-20.2.0\AndroidManifest.xml:28:13-43
+142            android:exported="false"
+142-->[com.google.firebase:firebase-common:20.2.0] C:\Users\Ganesh Mohan Pillai\.gradle\caches\transforms-3\603bb167a37d65dfb389011974d34b0a\transformed\firebase-common-20.2.0\AndroidManifest.xml:29:13-37
+143            android:initOrder="100" />
+143-->[com.google.firebase:firebase-common:20.2.0] C:\Users\Ganesh Mohan Pillai\.gradle\caches\transforms-3\603bb167a37d65dfb389011974d34b0a\transformed\firebase-common-20.2.0\AndroidManifest.xml:30:13-36
+144
+145        <activity
+145-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Ganesh Mohan Pillai\.gradle\caches\transforms-3\928e45c42d351ed66571468a1953697a\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+146            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+146-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Ganesh Mohan Pillai\.gradle\caches\transforms-3\928e45c42d351ed66571468a1953697a\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+147            android:exported="false"
+147-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Ganesh Mohan Pillai\.gradle\caches\transforms-3\928e45c42d351ed66571468a1953697a\transformed\play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+148            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+148-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Ganesh Mohan Pillai\.gradle\caches\transforms-3\928e45c42d351ed66571468a1953697a\transformed\play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+149
+150        <meta-data
+150-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Ganesh Mohan Pillai\.gradle\caches\transforms-3\df35b2152390ee5e961981855b9e3ce4\transformed\play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+151            android:name="com.google.android.gms.version"
+151-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Ganesh Mohan Pillai\.gradle\caches\transforms-3\df35b2152390ee5e961981855b9e3ce4\transformed\play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+152            android:value="@integer/google_play_services_version" />
+152-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Ganesh Mohan Pillai\.gradle\caches\transforms-3\df35b2152390ee5e961981855b9e3ce4\transformed\play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+153    </application>
+154
+155</manifest>

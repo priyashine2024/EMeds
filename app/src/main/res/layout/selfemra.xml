@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background1"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/medicines_for_stress"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginBottom="20dp"
+        android:gravity="center"
+        android:text="Medicines for Stress"
+        android:textColor="@color/white"
+        android:textSize="30dp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/img_selfemra"
+        android:layout_width="300dp"
+        android:layout_height="250dp"
+        android:src="@drawable/selfemra"
+        android:layout_below="@+id/medicines_for_stress"
+        android:padding="16dp"
+        android:layout_centerInParent="true"/>
+
+    <TextView
+        android:id="@+id/txt_selfemra"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/img_selfemra"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="25dp"
+        android:text="Name:    Selfemra"
+        android:textColor="@color/white"
+        android:textColorHint="@color/white"
+        android:textSize="30dp" />
+
+    <TextView
+        android:id="@+id/rate_selfemra"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txt_selfemra"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="25dp"
+        android:text="Rating:   6.1/10"
+        android:textColor="@color/white"
+        android:textColorHint="@color/white"
+        android:textSize="30dp" />
+
+    <TextView
+        android:id="@+id/price_selfemra"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/rate_selfemra"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="25dp"
+        android:text="Price:      Rs. 987.89"
+        android:textColor="@color/white"
+        android:textColorHint="@color/white"
+        android:textSize="30dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/price_selfemra"
+        android:text="Selfemra decreases fear, anxiety, unwanted thoughts, and the number of panic attacks. It may also reduce the urge to perform repeated tasks (compulsions such as hand-washing, counting, and checking) that interfere with daily living."
+        android:textColor="@color/white"
+        android:textColorHint="@color/white"
+        android:layout_marginLeft="18dp"
+        android:layout_marginRight="18dp"
+        android:textSize="20dp"
+        android:padding="10dp"
+        android:paddingRight="10dp"/>
+    <Button
+        android:id="@+id/back"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="158dp"
+        android:layout_marginTop="668dp"
+        android:layout_marginEnd="159dp"
+        android:layout_marginBottom="15dp"
+        android:text="Back" />
+</RelativeLayout>

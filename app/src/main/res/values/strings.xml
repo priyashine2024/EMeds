@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<resources>
+
+    <string name="app_name">eMeds</string>
+
+    <string name="disease">Disease</string>
+
+    <string name="medicines">Medicines</string>
+    <string name="home">Home</string>
+    <string name="advair_diskus">ADVAIR DISKUS</string>
+    <string name="asthma">Asthma</string>
+
+
+    -<string-array name="array_disease">
+
+    <item>Select Disease</item>
+
+    <item>Asthama</item>
+
+    <item>Bronchitis</item>
+
+    <item>Diarrhea</item>
+
+    <item>Fever</item>
+
+    <item>Stress</item>
+
+</string-array>
+
+</resources>

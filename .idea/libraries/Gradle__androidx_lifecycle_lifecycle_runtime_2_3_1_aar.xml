@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.lifecycle:lifecycle-runtime:2.3.1@aar">
+    <CLASSES>
+      <root url="file://$APPLICATION_HOME_DIR$/bin/Whatsapp/gradle/caches/transforms-3/9b69164fb4cb088fb84de1cfa03882e2/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml" />
+      <root url="file://$APPLICATION_HOME_DIR$/bin/Whatsapp/gradle/caches/transforms-3/9b69164fb4cb088fb84de1cfa03882e2/transformed/lifecycle-runtime-2.3.1/res" />
+      <root url="jar://$APPLICATION_HOME_DIR$/bin/Whatsapp/gradle/caches/transforms-3/9b69164fb4cb088fb84de1cfa03882e2/transformed/lifecycle-runtime-2.3.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$APPLICATION_HOME_DIR$/bin/Whatsapp/gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-runtime/2.3.1/ae7040cf314de81d20ac69f28f5ab6c9a2c0d1ab/lifecycle-runtime-2.3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

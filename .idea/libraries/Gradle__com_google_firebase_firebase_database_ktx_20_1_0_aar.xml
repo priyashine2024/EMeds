@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-database-ktx:20.1.0@aar">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/bin/Whatsapp/gradle/caches/transforms-3/9157fca9d3cbcb7c937c34757d1d6239/transformed/firebase-database-ktx-20.1.0/jars/classes.jar!/" />
+      <root url="file://$APPLICATION_HOME_DIR$/bin/Whatsapp/gradle/caches/transforms-3/9157fca9d3cbcb7c937c34757d1d6239/transformed/firebase-database-ktx-20.1.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$APPLICATION_HOME_DIR$/bin/Whatsapp/gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-database-ktx/20.1.0/bb3093c5706c9864fdef3c5163d0e92ff732cc7e/firebase-database-ktx-20.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$APPLICATION_HOME_DIR$/bin/Whatsapp/gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-database-ktx/20.1.0/c8eec5906907141837d780f57fdf272531e1980/firebase-database-ktx-20.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

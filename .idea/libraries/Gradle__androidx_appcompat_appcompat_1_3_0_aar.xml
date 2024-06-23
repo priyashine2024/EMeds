@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.appcompat:appcompat:1.3.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$APPLICATION_HOME_DIR$/bin/Whatsapp/gradle/caches/transforms-3/49b2f455f49ba6e2159a7fa459043bf9/transformed/appcompat-1.3.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$APPLICATION_HOME_DIR$/bin/Whatsapp/gradle/caches/transforms-3/49b2f455f49ba6e2159a7fa459043bf9/transformed/appcompat-1.3.0/res" />
+      <root url="file://$APPLICATION_HOME_DIR$/bin/Whatsapp/gradle/caches/transforms-3/49b2f455f49ba6e2159a7fa459043bf9/transformed/appcompat-1.3.0/AndroidManifest.xml" />
+      <root url="jar://$APPLICATION_HOME_DIR$/bin/Whatsapp/gradle/caches/transforms-3/49b2f455f49ba6e2159a7fa459043bf9/transformed/appcompat-1.3.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$APPLICATION_HOME_DIR$/bin/Whatsapp/gradle/caches/modules-2/files-2.1/androidx.appcompat/appcompat/1.3.0/45a346a05e7ff27a01c59452379c5939cbb53c03/appcompat-1.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

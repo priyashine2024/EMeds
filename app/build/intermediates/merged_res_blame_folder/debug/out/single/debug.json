@@ -1,0 +1,454 @@
+[
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\layout_advair_diskus.xml.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\layout\\advair_diskus.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\drawable_calpol.jpg.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\drawable\\calpol.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\drawable_ic_baseline_person_outline_24.xml.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\drawable\\ic_baseline_person_outline_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\drawable-v24_background.png.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\drawable-v24\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\mipmap-hdpi_emeds_logo_foreground.png.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\mipmap-hdpi\\emeds_logo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\drawable_pepto_bismol.jpg.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\drawable\\pepto_bismol.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\layout_prozac.xml.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\layout\\prozac.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\mipmap-xxxhdpi_logo.png.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\mipmap-xxxhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\drawable_background1.png.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\drawable\\background1.png"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\drawable_guaifenex_g.jpg.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\drawable\\guaifenex_g.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\mipmap-xhdpi_emeds_logo_round.png.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\mipmap-xhdpi\\emeds_logo_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\drawable_logout_svgrepo_com.xml.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\drawable\\logout_svgrepo_com.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\mipmap-anydpi-v26_emeds_logo.xml.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\mipmap-anydpi-v26\\emeds_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\drawable_logout.png.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\drawable\\logout.png"
+    },
+    {
+        "merged": "com.example.mysignupapp-merged_res-23:/layout_advair_diskus.xml.flat",
+        "source": "com.example.mysignupapp-main-25:/layout/advair_diskus.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\drawable-v24_twitter.png.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\drawable-v24\\twitter.png"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\mipmap-xxxhdpi_emeds_logo_round.png.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\mipmap-xxxhdpi\\emeds_logo_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\drawable_advair_diskus.jpg.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\drawable\\advair_diskus.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\mipmap-hdpi_emeds_logo.png.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\mipmap-hdpi\\emeds_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\drawable_back_svgrepo_com.xml.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\drawable\\back_svgrepo_com.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\mipmap-xxxhdpi_emeds_logo_foreground.png.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\mipmap-xxxhdpi\\emeds_logo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\drawable_sarafem.jpg.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\drawable\\sarafem.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\layout_fever.xml.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\layout\\fever.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\mipmap-xhdpi_advairdiskus.png.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\mipmap-xhdpi\\advairdiskus.png"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\layout_bismatrol.xml.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\layout\\bismatrol.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\mipmap-anydpi-v26_emeds_logo_round.xml.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\mipmap-anydpi-v26\\emeds_logo_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\mipmap-mdpi_emeds_logo.png.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\mipmap-mdpi\\emeds_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\drawable_ic_baseline_info_24.xml.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\drawable\\ic_baseline_info_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\layout_tylenol.xml.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\layout\\tylenol.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\mipmap-xxhdpi_emeds_logo_round.png.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\mipmap-xxhdpi\\emeds_logo_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\mipmap-xxhdpi_logo.png.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\mipmap-xxhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\mipmap-hdpi_advairdiskus.png.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\mipmap-hdpi\\advairdiskus.png"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\drawable_medicines.xml.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\drawable\\medicines.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\mipmap-mdpi_logout.png.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\mipmap-mdpi\\logout.png"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\layout_alvedon.xml.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\layout\\alvedon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\layout_panadol.xml.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\layout\\panadol.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\mipmap-xxxhdpi_advairdiskus.png.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\mipmap-xxxhdpi\\advairdiskus.png"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\drawable_ic_baseline_email_24.xml.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\drawable\\ic_baseline_email_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\drawable_bismarex.jpg.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\drawable\\bismarex.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\layout_spinner_layout.xml.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\layout\\spinner_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\drawable_photoshop_back.png.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\drawable\\photoshop_back.png"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\drawable_antitussive.jpg.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\drawable\\antitussive.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\mipmap-hdpi_logo.png.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\mipmap-hdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\layout_antitussive.xml.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\layout\\antitussive.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\layout_mucinex.xml.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\layout\\mucinex.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\layout_bronchitis.xml.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\layout\\bronchitis.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\layout_pepto_bismol.xml.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\layout\\pepto_bismol.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\mipmap-mdpi_emeds_logo_foreground.png.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\mipmap-mdpi\\emeds_logo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\layout_stress.xml.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\layout\\stress.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\mipmap-xhdpi_emeds_logo_foreground.png.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\mipmap-xhdpi\\emeds_logo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\layout_robitussin.xml.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\layout\\robitussin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\mipmap-mdpi_logo.png.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\mipmap-mdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\mipmap-xhdpi_emeds_logo.png.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\mipmap-xhdpi\\emeds_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-pngs-18:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\drawable_selfemra.jpg.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\drawable\\selfemra.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\drawable_rapiflux.jpg.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\drawable\\rapiflux.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\layout_guaifenex_g.xml.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\layout\\guaifenex_g.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\drawable_panadol.jpg.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\drawable\\panadol.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\drawable_emeds_logo_background.xml.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\drawable\\emeds_logo_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\drawable_disease.xml.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\drawable\\disease.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\drawable_mucinex.jpg.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\drawable\\mucinex.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\layout_selfemra.xml.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\layout\\selfemra.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\layout_asthama.xml.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\layout\\asthama.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\drawable_armon_air.jpg.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\drawable\\armon_air.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\drawable_prozac.jpg.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\drawable\\prozac.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\drawable_robitussin.jpg.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\drawable\\robitussin.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\layout_kaopectate.xml.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\layout\\kaopectate.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\drawable_bismatrol.jpg.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\drawable\\bismatrol.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\mipmap-xhdpi_logout.png.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\mipmap-xhdpi\\logout.png"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\drawable_alvedon.jpg.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\drawable\\alvedon.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\drawable_breo_ellipta.jpg.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\drawable\\breo_ellipta.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\mipmap-xxxhdpi_emeds_logo.png.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\mipmap-xxxhdpi\\emeds_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\layout_calpol.xml.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\layout\\calpol.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\drawable-v24_google.png.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\drawable-v24\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\layout_bismarex.xml.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\layout\\bismarex.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\layout_breo_ellipta.xml.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\layout\\breo_ellipta.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\mipmap-mdpi_emeds_logo_round.png.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\mipmap-mdpi\\emeds_logo_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\mipmap-xhdpi_logo.png.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\mipmap-xhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\mipmap-xxhdpi_emeds_logo_foreground.png.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\mipmap-xxhdpi\\emeds_logo_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\layout_diarrhea.xml.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\layout\\diarrhea.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\drawable_trelegy_ellipta.jpg.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\drawable\\trelegy_ellipta.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\layout_trelegy_ellipta.xml.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\layout\\trelegy_ellipta.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\drawable_kaopectate.jpg.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\drawable\\kaopectate.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\drawable_logo_round.xml.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\drawable\\logo_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\mipmap-hdpi_logout.png.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\mipmap-hdpi\\logout.png"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\mipmap-mdpi_advairdiskus.png.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\mipmap-mdpi\\advairdiskus.png"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\layout_main_page.xml.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\layout\\main_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\drawable-v24_fb.png.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\drawable-v24\\fb.png"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\layout_armon_air.xml.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\layout\\armon_air.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\mipmap-xxhdpi_emeds_logo.png.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\mipmap-xxhdpi\\emeds_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\layout_rapiflux.xml.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\layout\\rapiflux.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\layout_sarafem.xml.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\layout\\sarafem.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\mipmap-xxhdpi_advairdiskus.png.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\mipmap-xxhdpi\\advairdiskus.png"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\mipmap-xxhdpi_logout.png.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\mipmap-xxhdpi\\logout.png"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\mipmap-hdpi_emeds_logo_round.png.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\mipmap-hdpi\\emeds_logo_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\mipmap-xxxhdpi_logout.png.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\mipmap-xxxhdpi\\logout.png"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\drawable_tylenol.jpg.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\drawable\\tylenol.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-merged_res-23:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\Ganesh Mohan Pillai\\.gradle\\daemon\\7.5\\com.example.mysignupapp-main-25:\\drawable\\logo.png"
+    }
+]

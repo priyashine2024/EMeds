@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "416773924479",
+    "firebase_url": "https://emeds-81a51-default-rtdb.firebaseio.com",
+    "project_id": "emeds-81a51",
+    "storage_bucket": "emeds-81a51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416773924479:android:ef38027d9978704a82014a",
+        "android_client_info": {
+          "package_name": "com.example.mysignupapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416773924479-itua1nr4sjfs4k63069pf86bcnuoarc1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOvSKbjs8VYqqtbnnu-ut-grg4KY5eH8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416773924479-itua1nr4sjfs4k63069pf86bcnuoarc1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
